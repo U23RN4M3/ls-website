@@ -23,7 +23,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: <strong>Friendly<span class="light"> </span></strong><span class="light">&amp;
-    family-owned.</span>
+    family-owned</span>
   content: 'Come visit a place where we say hello and keep the prices low. '
   media:
     image: "/uploads/2018/09/10/websitelogo.png"
