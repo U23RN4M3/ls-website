@@ -46,7 +46,7 @@ page_sections:
     alt_text: Sign reading "LOGAN Gateway to Ohio's Scenic Wonderland"
 - template: text-only-hero-banner
   block: hero-1
-  heading: 16 Departments &amp;<br><strong>near 15,000 square feet of shopping</strong>
+  heading: "<strong>16 Departments</strong> &amp;<br>over 12,000 square feet of shopping"
 - template: 1-column-text
   block: one-column-1
   headline: 16 Departments and near 15,000 square feet of shopping
