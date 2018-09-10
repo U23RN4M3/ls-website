@@ -50,7 +50,8 @@ page_sections:
     alt_text: Sign reading "LOGAN Gateway to Ohio's Scenic Wonderland"
 - template: text-only-hero-banner
   block: hero-1
-  heading: "<strong>16 Departments</strong> &amp;<br>over 12,000 square feet of shopping"
+  heading: Crabtree's Logan Sales Company is rated <br><strong>4.6 out of 5 star on
+    Google</strong>.<br>
 - template: 1-column-text
   block: one-column-1
   headline: Whether armed with a shopping list or just looking to burn some time,
