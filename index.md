@@ -89,6 +89,9 @@ page_sections:
   cta:
     url: tel:+740-385-5782
     button_text: Tap to Call
+  navigation:
+  - link_text: 1266 W Hunter St, Logan OH
+  - {}
 - template: simple-footer
   block: footer-1
   content: <a href="https://www.logan-sales.com/privacy-policy" title="Privacy Policy
