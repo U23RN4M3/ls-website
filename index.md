@@ -31,8 +31,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>Located in the heart of Logan</strong><span class="light"> a small
-    town with a place in our hearts</span>
+  headline: <strong>Located in the heart of Logan;</strong><span class="light"> a
+    small town with a place in our hearts</span>
   content: Find us at 1266 W. Hunter St, Logan OH 43138<br>and can be reached by phone
     740.385.5782
   media:
