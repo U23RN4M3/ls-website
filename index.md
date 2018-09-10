@@ -52,8 +52,9 @@ page_sections:
   caption: All Available Blocks
 - template: detail-content
   block: text-1
-  headline: Hours of Operation
-  content: "<p>Mon-Fri        8am - 7pm</p><p>Saturday      9am-7pm</p><p>Sunday        10am-5pm</p>"
+  headline: You'll find us eager to serve you
+  content: "<h1>Mon-Fri        8am - 7pm</h1><h1>Saturday      9am-7pm</h1><h1>Sunday
+    \       10am-5pm</h1>"
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
