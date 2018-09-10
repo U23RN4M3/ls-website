@@ -3,30 +3,18 @@ layout: blocks
 title: Homepage
 date: 2017-11-22 23:00:00 +0000
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
-  navigation:
-  - link: "/"
-    link_text: Home
-  - link: "#"
-    link_text: Features
-  - link: "#"
-    link_text: Pricing
-  - link: "#"
-    link_text: Team
-  cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2018/09/10/navbannerlogo.svg"
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: not your average<br><strong>general store</strong>
+  content: Crabtree's Logan Sales Company offers discounted pricing, variety of product
+    and a strong hardware selection to those in Hocking Valley.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: https://www.google.com/maps/place/Crabtree's+Logan+Sales,+Co.+(LS)/@39.543473,-82.4283297,17z/data=!3m1!4b1!4m5!3m4!1s0x8847efb15f380f49:0x251ab97333f97024!8m2!3d39.543473!4d-82.426141
+    button_text: Get Directions
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
@@ -80,6 +68,7 @@ menu:
     identifier: home
     weight: 1
     title: Home
+published: false
 
 ---
 foo bar
