@@ -85,8 +85,9 @@ page_sections:
   content: "<h1>Mon-Fri 8a-7p</h1><h1>Saturday 9a-7p</h1><h1>Sunday 10a-5p</h1>"
 - template: simple-footer
   block: footer-1
-  content: Privacy Policy       |        <span class="emoji">©️</span> 2018 Crabtree's
-    Logan Sales Company, LLC.        |        Contact Us
+  content: Privacy Policy | <span class="emoji">©️</span> 2018 Crabtree's Logan Sales
+    Company, LLC. | <a href="http://www.logan-sales.com/contact-us" title="Contact
+    link">Contact Us</a>
 menu:
   main:
     identifier: home
