@@ -64,6 +64,11 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+- template: navigation-header-w-button
+  block: header-2
+  cta:
+    url: tel:1-740-385-5782
+    button_text: Click to Call
 menu:
   main:
     identifier: home
