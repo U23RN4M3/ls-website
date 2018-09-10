@@ -85,6 +85,7 @@ page_sections:
   content: "<h1>Mon-Fri 8a-7p</h1><h1>Saturday 9a-7p</h1><h1>Sunday 10a-5p</h1>"
 - template: 4-column-footer
   block: footer-2
+  image: "/uploads/2018/09/10/pix.png"
 - template: simple-footer
   block: footer-1
   content: Privacy Policy | <span class="emoji">©️</span> 2018 Crabtree's Logan Sales
