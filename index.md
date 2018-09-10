@@ -69,6 +69,7 @@ page_sections:
   cta:
     url: tel:1-740-385-5782
     button_text: Click to Call
+  logo: "/uploads/2018/09/10/navbannerlogo.svg"
 menu:
   main:
     identifier: home
