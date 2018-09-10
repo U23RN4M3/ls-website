@@ -30,8 +30,8 @@ page_sections:
     alt_text: Crabtree's Logan Sales Company logo
 - template: signup-bar
   block: cta-bar
-  content: "<strong>Be the first to learn of clearance sales<br></strong>and special
-    discounts."
+  content: "<strong>Be the first to learn of clearance sales!<br></strong>Submit your
+    email to begin receiving ours."
   email_recipient: logansales12@gmail.com
 - template: content-feature
   block: feature-1
