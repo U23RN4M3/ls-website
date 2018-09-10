@@ -64,6 +64,9 @@ page_sections:
   caption: All Available Blocks
 - template: 3-column-text
   block: three-column-1
+  col_1:
+    headline: A couple of recent reviews
+    content: Crabtree's Logan Sales Company is rated 4.6 out of 5 star on Google.
 - template: detail-content
   block: text-1
   headline: You'll find us at the store
