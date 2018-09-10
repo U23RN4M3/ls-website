@@ -59,7 +59,7 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: A couple of recent reviews.
+    headline: JOSHUA CORNMILLER says
     content: '"LS has always been a local favorite of mine. They always have fantastic
       prices on clothing such as carhartts and pants. [...] They have a large hardware
       selection too. [...] Mini outdoors and knives section is a nice touch too. Oh.
