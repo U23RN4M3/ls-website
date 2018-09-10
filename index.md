@@ -48,8 +48,7 @@ page_sections:
   block: one-column-1
   headline: 16 Departments and near 15,000 square feet of shopping
   content: 'Whether armed with a shopping list or just looking to burn some time,
-    Crabtree''s Logan Sales Company welcomes you between our many aisles of fantastic
-    finds. '
+    Crabtree''s ''LS'' welcomes you between our many aisles of fantastic finds. '
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
