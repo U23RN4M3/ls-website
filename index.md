@@ -34,7 +34,7 @@ page_sections:
   headline: <strong>Located in the heart of Logan;</strong><span class="light"> a
     small town with a place in our hearts</span>
   content: Find us at 1266 W. Hunter St, Logan OH 43138<br>and can be reached by phone
-    740.385.5782
+    740.385.5782<br>insert text aout logan facts population campong tourism best peeps
   media:
     image: "/uploads/2018/09/10/logangate (1).png"
     alt_text: Sign reading "LOGAN Gateway to Ohio's Scenic Wonderland"
