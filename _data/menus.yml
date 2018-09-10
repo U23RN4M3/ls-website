@@ -1,6 +1,6 @@
 ---
 main:
 - identifier: home
-  url: "/"
+  url: www.logan-sales.com/home
   weight: 1
   title: Home
