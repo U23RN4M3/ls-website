@@ -18,7 +18,7 @@ page_sections:
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
-  background_image: "/uploads/2018/09/10/Untitled (2).png"
+  background_image: "/uploads/2018/09/10/webbanner-1.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
