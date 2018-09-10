@@ -50,8 +50,7 @@ page_sections:
     alt_text: Sign reading "LOGAN Gateway to Ohio's Scenic Wonderland"
 - template: text-only-hero-banner
   block: hero-1
-  heading: Crabtree's Logan Sales Company is rated <br><strong>4.6 out of 5 star on
-    Google</strong>.<br>
+  heading: Crabtree's Logan Sales Company scores <br><strong>4.6 out of 5 stars</strong>.<br>
 - template: 1-column-text
   block: one-column-1
   headline: Whether armed with a shopping list or just looking to burn some time,
