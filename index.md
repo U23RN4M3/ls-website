@@ -49,9 +49,9 @@ page_sections:
   heading: "<strong>16 Departments</strong> &amp;<br>over 12,000 square feet of shopping"
 - template: 1-column-text
   block: one-column-1
-  headline: 16 Departments and near 15,000 square feet of shopping
-  content: 'Whether armed with a shopping list or just looking to burn some time,
-    Crabtree''s ''LS'' welcomes you between our many aisles of fantastic finds. '
+  headline: Whether armed with a shopping list or just looking to burn some time,
+    Crabtree's 'LS' welcomes you between our many aisles of fantastic finds.
+  content: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
