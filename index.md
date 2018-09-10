@@ -36,7 +36,7 @@ page_sections:
   content: Find us at 1266 W. Hunter St, Logan OH 43138<br>and can be reached by phone
     740.385.5782
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: "/uploads/2018/09/10/logangate.png"
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
