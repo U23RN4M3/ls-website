@@ -37,7 +37,7 @@ page_sections:
     740.385.5782
   media:
     image: "/uploads/2018/09/10/logangate (1).png"
-    alt_text: Customize Blocks
+    alt_text: Sign reading "LOGAN Gateway to Ohio's Scenic Wonderland"
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
