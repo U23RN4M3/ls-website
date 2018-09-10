@@ -3,8 +3,11 @@ layout: blocks
 title: Homepage
 date: 2017-11-22 23:00:00 +0000
 page_sections:
-- template: simple-header
-  block: header-3
+- template: navigation-header-w-button
+  block: header-2
+  cta:
+    url: tel:1-740-385-5782
+    button_text: Click to Call
   logo: "/uploads/2018/09/10/navbannerlogo.svg"
 - template: hero-banner-w-image
   block: hero-2
@@ -64,12 +67,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
-- template: navigation-header-w-button
-  block: header-2
-  cta:
-    url: tel:1-740-385-5782
-    button_text: Click to Call
-  logo: "/uploads/2018/09/10/navbannerlogo.svg"
 menu:
   main:
     identifier: home
