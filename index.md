@@ -83,9 +83,12 @@ page_sections:
   block: text-1
   headline: You'll find us at the store
   content: "<h1>Mon-Fri 8a-7p</h1><h1>Saturday 9a-7p</h1><h1>Sunday 10a-5p</h1>"
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2018/09/10/pix.png"
+- template: navigation-header-w-button
+  block: header-2
+  logo: "/uploads/2018/09/10/websitenavlogov3.png"
+  cta:
+    url: tel:+740-385-5782
+    button_text: Tap to Call
 - template: simple-footer
   block: footer-1
   content: Privacy Policy | <span class="emoji">©️</span> 2018 Crabtree's Logan Sales
