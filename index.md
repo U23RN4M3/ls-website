@@ -31,8 +31,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
+  headline: <strong>Located in the heart of Logan</strong><span class="light"> a small
+    town with a place in our hearts</span>
   content: Each block comes with custom Front Matter that can easily be edited in
     Forestry's UI.
   media:
