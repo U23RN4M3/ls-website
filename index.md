@@ -56,12 +56,6 @@ page_sections:
 - template: text-only-hero-banner
   block: hero-1
   heading: Crabtree's Logan Sales Company scores <br><strong>4.6 out of 5 stars</strong>.<br>
-- template: 2-column-media-element
-  block: media-2
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -78,6 +72,12 @@ page_sections:
       it [...] Plus, I get good advice, especially when I''m not sure what supplies
       l need. They really know their stuff when I''m not sure what supplies l need.
       They really know their stuff."'
+- template: 2-column-media-element
+  block: media-2
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2018/06/21/theme.png"
+  caption: All Available Blocks
 - template: detail-content
   block: text-1
   headline: You'll find us at the store
