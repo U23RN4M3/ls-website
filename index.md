@@ -91,8 +91,9 @@ page_sections:
     button_text: Tap to Call
 - template: simple-footer
   block: footer-1
-  content: Privacy Policy | <span class="emoji">©️</span> 2018 Crabtree's Logan Sales
-    Company, LLC. | <a href="http://www.logan-sales.com/contact-us" title="Contact
+  content: <a href="https://www.logan-sales.com/privacy-policy" title="Privacy Policy
+    link">Privacy Policy</a> | <span class="emoji">©️</span> 2018 Crabtree's Logan
+    Sales Company, LLC. | <a href="https://www.logan-sales.com/contact-us" title="Contact
     link">Contact Us</a>
 menu:
   main:
