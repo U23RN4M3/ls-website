@@ -66,7 +66,8 @@ page_sections:
     \       10am-5pm</h1>"
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: Privacy Policy       |        <span class="emoji">©️</span> 2018 Crabtree's
+    Logan Sales Company, LLC.        |        Contact Us
 menu:
   main:
     identifier: home
