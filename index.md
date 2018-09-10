@@ -33,11 +33,6 @@ page_sections:
   headline: Whether armed with a shopping list or just looking to burn some time,
     Crabtree's 'LS' welcomes you between our many aisles of fantastic finds.
   content: ''
-- template: signup-bar
-  block: cta-bar
-  content: "<strong>Be the first to learn of clearance sales!<br></strong>Submit your
-    email to begin receiving ours."
-  email_recipient: logansales12@gmail.com
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -77,10 +72,11 @@ page_sections:
       They really know their stuff."'
 - template: 2-column-media-element
   block: media-2
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
+- template: signup-bar
+  block: cta-bar
+  content: "<strong>Don't miss out!<br></strong>Submit your email to occasionally
+    receive emails from Crabtree's Logan Sales Company."
+  email_recipient: logansales12@gmail.com
 - template: detail-content
   block: text-1
   headline: You'll find us at the store
