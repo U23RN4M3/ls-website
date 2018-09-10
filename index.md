@@ -62,11 +62,9 @@ page_sections:
     headline: A couple of recent reviews.
     content: '"LS has always been a local favorite of mine. They always have fantastic
       prices on clothing such as carhartts and pants. [...] They have a large hardware
-      selection too. It''s also one of the last places you''ll actually find toy guns
-      and toy army gear for kids. Mini outdoors and knives section is a nice touch
-      too. Oh. And if old time candy is your thing too. They usually have some in
-      stock. Only place in town I know of where you can still find cow tails and tootsie
-      rolls."'
+      selection too. [...] Mini outdoors and knives section is a nice touch too. Oh.
+      And if old time candy is your thing too. They usually have some in stock. Only
+      place in town I know of where you can still find cow tails and tootsie rolls."'
   col_2:
     headline: JOHN MILLER says
     content: '"Good selection,  cheap prices, quick stop. I bought a 35 foot Stanley
