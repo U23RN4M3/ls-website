@@ -28,6 +28,8 @@ page_sections:
   media:
     image: "/uploads/2018/09/10/websitelogo.png"
     alt_text: Crabtree's Logan Sales Company logo
+- template: signup-bar
+  block: cta-bar
 - template: content-feature
   block: feature-1
   media_alignment: Right
