@@ -31,6 +31,11 @@ page_sections:
   media:
     image: "/uploads/2018/09/10/websitelogo.png"
     alt_text: Crabtree's Logan Sales Company logo
+- template: 1-column-text
+  block: one-column-1
+  headline: Whether armed with a shopping list or just looking to burn some time,
+    Crabtree's 'LS' welcomes you between our many aisles of fantastic finds.
+  content: ''
 - template: signup-bar
   block: cta-bar
   content: "<strong>Be the first to learn of clearance sales!<br></strong>Submit your
@@ -51,11 +56,6 @@ page_sections:
 - template: text-only-hero-banner
   block: hero-1
   heading: Crabtree's Logan Sales Company scores <br><strong>4.6 out of 5 stars</strong>.<br>
-- template: 1-column-text
-  block: one-column-1
-  headline: Whether armed with a shopping list or just looking to burn some time,
-    Crabtree's 'LS' welcomes you between our many aisles of fantastic finds.
-  content: ''
 - template: 2-column-media-element
   block: media-2
 - template: full-width-media-element
