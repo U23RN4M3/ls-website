@@ -1,8 +1,1 @@
----
-main:
-- weight: 1
-  title: ''
-- identifier: home
-  url: www.logan-sales.com/home
-  weight: 1
-  title: Home
+--- {}
