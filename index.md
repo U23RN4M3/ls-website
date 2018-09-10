@@ -67,6 +67,17 @@ page_sections:
   col_1:
     headline: A couple of recent reviews.
     content: Crabtree's Logan Sales Company is rated 4.6 out of 5 star on Google.
+  col_2:
+    headline: JOHN MILLER says
+    content: '"Good selection,  cheap prices, quick stop. I bought a 35 foot Stanley
+      tape measure for $10 LESS than the local hardware store."'
+  col_3:
+    headline: FRANK JOHNSON says
+    content: '"L&amp;S has been my go-to for decades. If this place ain''t got what
+      I need it''s pretty certain I''m going to have to go to another city to find
+      it [...] Plus, I get good advice, especially when I''m not sure what supplies
+      l need. They really know their stuff when I''m not sure what supplies l need.
+      They really know their stuff."'
 - template: detail-content
   block: text-1
   headline: You'll find us at the store
