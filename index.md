@@ -10,7 +10,7 @@ page_sections:
   block: hero-2
   headline: not your average<br><strong>general store</strong>
   content: Crabtree's Logan Sales Company offers discounted pricing, variety of product
-    and a strong hardware selection to those in Hocking Valley.
+    and a strong hardware selection.
   cta:
     enabled: true
     url: https://www.google.com/maps/place/Crabtree's+Logan+Sales,+Co.+(LS)/@39.543473,-82.4283297,17z/data=!3m1!4b1!4m5!3m4!1s0x8847efb15f380f49:0x251ab97333f97024!8m2!3d39.543473!4d-82.426141
