@@ -90,7 +90,7 @@ page_sections:
   logo: "/uploads/2018/09/10/websitenavlogov3.png"
   cta:
     url: tel:+740-385-5782
-    button_text: Tap to Call
+    button_text: CALL
   navigation:
   - link_text: 1266 W Hunter St, Logan OH
     link: https://www.google.com/maps/place/Crabtree's+Logan+Sales,+Co.+(LS)/@39.543473,-82.426141,17z/data=!3m1!4b1!4m5!3m4!1s0x8847efb15f380f49:0x251ab97333f97024!8m2!3d39.543473!4d-82.426141
