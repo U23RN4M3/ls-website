@@ -30,6 +30,9 @@ page_sections:
     alt_text: Crabtree's Logan Sales Company logo
 - template: signup-bar
   block: cta-bar
+  content: "<strong>Get notified of sales via email</strong><br>so you won't have
+    to wait to hear about it from your neighbor"
+  email_recipient: logansales12@gmail.com
 - template: content-feature
   block: feature-1
   media_alignment: Right
