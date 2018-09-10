@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   cta:
     url: tel:1-740-385-5782
-    button_text: Click to Call
+    button_text: Tap to Call
   logo: "/uploads/2018/09/10/navbannerlogo.svg"
 - template: hero-banner-w-image
   block: hero-2
