@@ -46,10 +46,10 @@ page_sections:
     alt_text: Sign reading "LOGAN Gateway to Ohio's Scenic Wonderland"
 - template: 1-column-text
   block: one-column-1
-  headline: 16 Fully Responsive Design Blocks
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
+  headline: 16 Departments and near 15,000 square feet of shopping
+  content: 'Whether armed with a shopping list or just looking to burn some time,
+    Crabtree''s Logan Sales Company welcomes you between our many aisles of fantastic
+    finds. '
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
