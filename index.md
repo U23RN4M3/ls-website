@@ -85,8 +85,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: You'll find us at the store
-  content: "<h1>Mon-Fri        8am - 7pm</h1><h1>Saturday      9am-7pm</h1><h1>Sunday
-    \       10am-5pm</h1>"
+  content: "<h1>Mon-Fri 8a-7p</h1><h1>Saturday 9a-7p</h1><h1>Sunday 10a-5p</h1>"
 - template: simple-footer
   block: footer-1
   content: Privacy Policy       |        <span class="emoji">©️</span> 2018 Crabtree's
