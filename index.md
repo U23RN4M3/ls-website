@@ -56,18 +56,18 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: JOSHUA CORNMILLER says
+    headline: JOSHUA C. says
     content: '"LS has always been a local favorite of mine. They always have fantastic
       prices on clothing such as carhartts and pants. [...] They have a large hardware
       selection too. [...] Mini outdoors and knives section is a nice touch too. Oh.
       And if old time candy is your thing too. They usually have some in stock. Only
       place in town I know of where you can still find cow tails and tootsie rolls."'
   col_2:
-    headline: JOHN MILLER says
+    headline: JOHN M. says
     content: '"Good selection,  cheap prices, quick stop. I bought a 35 foot Stanley
       tape measure for $10 LESS than the local hardware store."'
   col_3:
-    headline: FRANK JOHNSON says
+    headline: FRANK J. says
     content: '"L&amp;S has been my go-to for decades. If this place ain''t got what
       I need it''s pretty certain I''m going to have to go to another city to find
       it [...] Plus, I get good advice, especially when I''m not sure what supplies
