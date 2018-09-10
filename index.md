@@ -41,8 +41,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>Located in the heart of Logan;</strong><span class="light"> a
-    town with a place in our hearts</span>
+  headline: <strong>Located in the heart of Logan, Ohio;</strong><span class="light">
+    a town with a place in our hearts</span>
   content: We're only 20 minutes south of Lancaster.<br>Visit us <a href="https://www.google.com/maps/place/Crabtree's+Logan+Sales,+Co.+(LS)/@39.8012286,-82.9483598,10z/data=!4m5!3m4!1s0x8847efb15f380f49:0x251ab97333f97024!8m2!3d39.543473!4d-82.426141"
     title="Address link">1266 W. Hunter St, Logan OH</a><br>Dial us <a href="tel:+1-740-385-5782"
     title="Telephone link">740.385.5782</a><br>Like us <a href="" title="">http://bit.ly/LSfbook</a><br>Review
