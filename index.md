@@ -25,7 +25,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Friendly<span class="light"> </span></strong><span class="light">&amp;
+  headline: <strong>Friendly<span class="light"> </span></strong><span class="light">and
     family-owned</span>
   content: "...a place where we say hello and keep the prices low."
   media:
