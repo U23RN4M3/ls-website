@@ -41,9 +41,10 @@ page_sections:
   media_alignment: Right
   headline: <strong>Located in the heart of Logan;</strong><span class="light"> a
     small town with a place in our hearts</span>
-  content: Visit us at <a href="https://www.google.com/maps/place/1266+W+Hunter+St,+Logan,+OH+43138/data=!4m2!3m1!1s0x8847efb15bb54d93:0x48529c3f336592e4?sa=X&amp;ved=2ahUKEwiFwqebyK_dAhWY14MKHSaEBTcQ8gEwAHoECAAQAQ"
-    title="Address Link">1266 W. Hunter St, Logan OH 43138</a>,<br>Talk to us by dialing
-    <a href="tel:1-740-385-5782" title="Telephone link">740.385.5782</a>.
+  content: 'Visit us at: <a href="https://www.google.com/maps/place/1266+W+Hunter+St,+Logan,+OH+43138/data=!4m2!3m1!1s0x8847efb15bb54d93:0x48529c3f336592e4?sa=X&amp;ved=2ahUKEwiFwqebyK_dAhWY14MKHSaEBTcQ8gEwAHoECAAQAQ"
+    title="Address Link">1266 W. Hunter St, Logan OH 43138</a>,<br>Talk to us by dialing:
+    <a href="tel:1-740-385-5782" title="Telephone link">740.385.5782</a>.<br>Find
+    us on Facebook: <a href="http://bit.ly/LoganSalesfacebook" title="http://bit.ly/LoganSalesfacebook">http://bit.ly/LoganSalesfacebook</a>'
   media:
     image: "/uploads/2018/09/10/logangate (2).png"
     alt_text: Sign reading "LOGAN Gateway to Ohio's Scenic Wonderland"
