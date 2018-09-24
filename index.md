@@ -8,13 +8,12 @@ page_sections:
   logo: "/uploads/2018/09/10/navbannerlogo.svg"
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/09/10/websitenavlogov3.png"
-  cta:
-    url: tel:+740-385-5782
-    button_text: CALL
   navigation:
-  - link_text: 740.385.5782
-    link: tel:+1-740-385-5782
+  - link: " tel:+1-740-385-5782"
+    link_text: 740.385.5782
+  cta:
+    url: tel:+1-740-385-5782
+    button_text: CALL
 - template: hero-banner-w-image
   block: hero-2
   headline: not your average<br><strong>general store</strong>
@@ -90,6 +89,15 @@ page_sections:
   block: text-1
   headline: You'll find us at the store
   content: "<h1>Mon-Fri 8a-7p</h1><h1>Saturday 9a-7p</h1><h1>Sunday 10a-5p</h1>"
+- template: navigation-header-w-button
+  block: header-2
+  logo: "/uploads/2018/09/10/websitenavlogov3.png"
+  cta:
+    url: tel:+740-385-5782
+    button_text: CALL
+  navigation:
+  - link_text: 740.385.5782
+    link: tel:+1-740-385-5782
 - template: simple-footer
   block: footer-1
   content: <a href="https://www.logan-sales.com/privacy-policy" title="Privacy Policy
