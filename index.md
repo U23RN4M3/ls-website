@@ -9,11 +9,13 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   navigation:
+  - link_text: Directions
   - link: " tel:+1-740-385-5782"
     link_text: 740.385.5782
   cta:
     url: tel:+1-740-385-5782
     button_text: CALL
+  logo: "/uploads/2018/09/10/pix.png"
 - template: hero-banner-w-image
   block: hero-2
   headline: not your average<br><strong>general store</strong>
@@ -40,7 +42,7 @@ page_sections:
   block: one-column-1
   headline: Whether armed with a shopping list or just looking to burn some time,
     Crabtree's 'LS' welcomes you between our many aisles of fantastic finds.
-  content: ''
+  content: ______________________________________
 - template: content-feature
   block: feature-1
   media_alignment: Right
