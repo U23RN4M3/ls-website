@@ -6,6 +6,15 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: "/uploads/2018/09/10/navbannerlogo.svg"
+- template: navigation-header-w-button
+  block: header-2
+  logo: "/uploads/2018/09/10/websitenavlogov3.png"
+  cta:
+    url: tel:+740-385-5782
+    button_text: CALL
+  navigation:
+  - link_text: 740.385.5782
+    link: tel:+1-740-385-5782
 - template: hero-banner-w-image
   block: hero-2
   headline: not your average<br><strong>general store</strong>
@@ -26,7 +35,7 @@ page_sections:
     well as </span><strong><span class="light">family-owned</span></strong>
   content: a place where we say hello and keep the prices low.
   media:
-    image: "/uploads/2018/09/10/website1 (1).png"
+    image: "/uploads/2018/09/24/website1.png"
     alt_text: Crabtree's Logan Sales Company logo
 - template: 1-column-text
   block: one-column-1
@@ -81,15 +90,6 @@ page_sections:
   block: text-1
   headline: You'll find us at the store
   content: "<h1>Mon-Fri 8a-7p</h1><h1>Saturday 9a-7p</h1><h1>Sunday 10a-5p</h1>"
-- template: navigation-header-w-button
-  block: header-2
-  logo: "/uploads/2018/09/10/websitenavlogov3.png"
-  cta:
-    url: tel:+740-385-5782
-    button_text: CALL
-  navigation:
-  - link_text: 740.385.5782
-    link: tel:+1-740-385-5782
 - template: simple-footer
   block: footer-1
   content: <a href="https://www.logan-sales.com/privacy-policy" title="Privacy Policy
