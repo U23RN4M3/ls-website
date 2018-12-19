@@ -34,6 +34,6 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- index.md
-- contact-us.html
 - privacy-policy.html
+- contact-us.html
+- index.md
