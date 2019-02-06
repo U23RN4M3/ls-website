@@ -107,11 +107,6 @@ page_sections:
     link">Privacy Policy</a> | <span class="emoji">©️</span> 2018 Crabtree's Logan
     Sales Company, LLC. | <a href="https://www.logan-sales.com/contact-us" title="Contact
     link">Contact Us</a>
-menu:
-  main:
-    identifier: home
-    weight: 1
-    title: Home
 published: false
 
 ---
