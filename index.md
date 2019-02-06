@@ -103,10 +103,8 @@ page_sections:
     link: tel:+1-740-385-5782
 - template: simple-footer
   block: footer-1
-  content: <a href="https://www.logan-sales.com/privacy-policy" title="Privacy Policy
-    link">Privacy Policy</a> | <span class="emoji">©️</span> 2018 Crabtree's Logan
-    Sales Company, LLC. | <a href="https://www.logan-sales.com/contact-us" title="Contact
-    link">Contact Us</a>
+  content: '| <span class="emoji">©️</span> 2019 Crabtree''s Logan Sales Company,
+    LLC. |'
 published: false
 
 ---
