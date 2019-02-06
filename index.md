@@ -57,7 +57,7 @@ page_sections:
     title="Telephone link">740.385.5782</a>
   media:
     image: "/uploads/2018/09/10/logangate (3)-2.png"
-    alt_text: Sign reading "LOGAN Gateway to Ohio's Scenic Wonderland"
+    alt_text: Sign reading LOGAN Gateway to Ohio's Scenic Wonderland
 - template: text-only-hero-banner
   block: hero-1
   heading: Crabtree's Logan Sales Company scores <br><strong>4.6 out of 5 stars</strong>.<br>
