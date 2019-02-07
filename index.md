@@ -90,7 +90,7 @@ page_sections:
   email_recipient: logansales12@gmail.com
 - template: detail-content
   block: text-1
-  headline: You'll find us at the store
+  headline: 'You''ll find us at the store:'
   content: "<h1>Mon-Fri 8a-7p</h1><h1>Saturday 9a-7p</h1><h1>Sunday 10a-5p</h1>"
 - template: navigation-header-w-button
   block: header-2
