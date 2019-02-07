@@ -37,7 +37,7 @@ page_sections:
     well as </span><strong><span class="light">family-owned</span></strong>
   content: a place where we say hello and keep the prices low.
   media:
-    image: "/uploads/2018/09/24/website1.png"
+    image: "/uploads/2019/02/07/logotilted.png"
     alt_text: Crabtree's Logan Sales Company logo
 - template: 1-column-text
   block: one-column-1
