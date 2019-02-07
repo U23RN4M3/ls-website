@@ -16,7 +16,7 @@ page_sections:
   cta:
     url: tel:+1-740-385-5782
     button_text: CALL
-  logo: "/uploads/2018/09/10/pix.png"
+  logo: "/uploads/2019/02/07/websitenavlogov3.png"
 - template: hero-banner-w-image
   block: hero-2
   headline: not your average<br><strong>general store</strong>
