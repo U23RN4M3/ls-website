@@ -56,7 +56,7 @@ page_sections:
     title="http://bit.ly/LSfbook">http://bit.ly/LSfbook</a><br>Dial us <a href="tel:+1-740-385-5782"
     title="Telephone link">740.385.5782</a>
   media:
-    image: "/uploads/2018/09/10/logangate (3)-2.png"
+    image: "/uploads/2019/02/07/logangate.png"
     alt_text: Sign reading LOGAN Gateway to Ohio's Scenic Wonderland
 - template: text-only-hero-banner
   block: hero-1
