@@ -104,7 +104,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: <span class="emoji">©️</span> 2019 Crabtree's Logan Sales Company, LLC.
-published: false
 
 ---
 foo bar
