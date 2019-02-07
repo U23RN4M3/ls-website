@@ -29,7 +29,7 @@ page_sections:
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Exterior shot of Crabtree's Logan Sales, Co.
-  background_image: "/uploads/2019/02/07/background.png"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
