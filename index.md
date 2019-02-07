@@ -5,7 +5,7 @@ date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: simple-header
   block: header-3
-  logo: "/uploads/2018/09/10/navbannerlogo.svg"
+  logo: "/uploads/2018/09/10/websitenavlogov2.svg"
 - template: navigation-header-w-button
   block: header-2
   navigation:
