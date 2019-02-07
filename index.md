@@ -94,7 +94,7 @@ page_sections:
   content: "<h1>Mon-Fri 8a-7p</h1><h1>Saturday 9a-7p</h1><h1>Sunday 10a-5p</h1>"
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/09/10/websitenavlogov3.png"
+  logo: "/uploads/2019/02/07/websitenavlogov3.png"
   cta:
     url: tel:+740-385-5782
     button_text: CALL
