@@ -85,9 +85,9 @@ page_sections:
   block: media-2
 - template: signup-bar
   block: cta-bar
-  content: "<strong>Don't miss out!<br></strong>Submit your email to occasionally
-    receive emails from Crabtree's Logan Sales Company."
-  email_recipient: logansales12@gmail.com
+  content: "<strong>Leave us your email </strong>and we will occasionally send you
+    stuff."
+  email_recipient: richardcrabtreeii@gmail.com
 - template: detail-content
   block: text-1
   headline: 'You''ll find us at the store:'
