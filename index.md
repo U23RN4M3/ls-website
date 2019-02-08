@@ -27,7 +27,7 @@ page_sections:
     url: https://www.google.com/maps/place/Crabtree's+Logan+Sales,+Co.+(LS)/@39.543473,-82.4283297,17z/data=!3m1!4b1!4m5!3m4!1s0x8847efb15f380f49:0x251ab97333f97024!8m2!3d39.543473!4d-82.426141
     button_text: Get Directions
   image:
-    image: "/uploads/2019/02/08/20181207_102054.jpg"
+    image: ''
     alt_text: Exterior shot of Crabtree's Logan Sales, Co.
   background_image: "/uploads/2019/02/07/background.png"
 - template: content-feature
