@@ -54,6 +54,10 @@ page_sections:
   image_2:
     image: "/uploads/2019/02/10/store2.jpg"
     caption: 'Workwear - Footwear - Home Goods - Decor - Toys & Games - Sporting Goods '
+- template: 2-column-media-element
+  block: media-2
+  image_2:
+    image: "/uploads/2019/02/10/store3.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Right
