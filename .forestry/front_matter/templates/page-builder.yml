@@ -35,4 +35,5 @@ fields:
   - 4-column-footer
 pages:
 - index.md
+- "./logan-sales.md"
 - privacy-policy.html
