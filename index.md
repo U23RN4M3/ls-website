@@ -48,7 +48,9 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: ''
+    image: "/uploads/2019/02/10/store1.jpg"
+    caption: Lighting - Heating - Electrical - Hardware - Plumbing - Paint - Automotive
+      - Pets
   image_2:
     image: "/uploads/2019/02/06/Snowsleddisplay.png"
 - template: content-feature
