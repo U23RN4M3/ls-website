@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Logan Sales
+title: Logan Sales trst
 date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: simple-header
