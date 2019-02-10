@@ -43,8 +43,7 @@ page_sections:
   block: one-column-1
   headline: Whether armed with a shopping list or just looking to burn some time,
     Crabtree's 'LS' welcomes you between our many aisles of fantastic finds.
-  content: ______________________________________<br>FISHING | HUNTING | CAMPING |
-    SPORTING GOODS | PET SUPPLIES | TOOLS | HARDWARE | PLUMBING | ELECTRICAL<br>______________________________________
+  content: ''
 - template: 2-column-media-element
   block: media-2
   image_1:
