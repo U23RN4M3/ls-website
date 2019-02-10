@@ -52,7 +52,8 @@ page_sections:
     caption: Lighting - Heating - Electrical - Hardware - Plumbing - Paint - Automotive
       - Pets
   image_2:
-    image: "/uploads/2019/02/06/Snowsleddisplay.png"
+    image: "/uploads/2019/02/10/store2.jpg"
+    caption: 'Workwear - Footwear - Home Goods - Decor - Toys & Games - Sporting Goods '
 - template: content-feature
   block: feature-1
   media_alignment: Right
