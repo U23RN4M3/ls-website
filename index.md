@@ -48,7 +48,7 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2019/02/07/happy-porg-1.jpg"
+    image: ''
   image_2:
     image: "/uploads/2019/02/06/Snowsleddisplay.png"
 - template: content-feature
