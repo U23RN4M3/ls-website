@@ -45,6 +45,8 @@ page_sections:
     Crabtree's 'LS' welcomes you between our many aisles of fantastic finds.
   content: ______________________________________<br>FISHING | HUNTING | CAMPING |
     SPORTING GOODS | PET SUPPLIES | TOOLS | HARDWARE | PLUMBING | ELECTRICAL<br>______________________________________
+- template: 2-column-media-element
+  block: media-2
 - template: content-feature
   block: feature-1
   media_alignment: Right
