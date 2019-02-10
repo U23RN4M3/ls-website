@@ -57,6 +57,8 @@ page_sections:
   block: media-2
   image_2:
     image: "/uploads/2019/02/10/store3.jpg"
+  image_1:
+    image: "/uploads/2019/02/10/store4.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Right
